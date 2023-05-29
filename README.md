@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![github-header-image (1)](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/d31d5982-a6f3-4f20-b6bc-1f1359aebcef)
+
 
 
 <h1 align="center">Hi 👋, I'm Shashank Dwivedi</h1>
