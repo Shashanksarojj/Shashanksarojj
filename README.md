@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/2c9a4dd6-2bf0-45e9-868b-cd31c95343e1)
+
 ![github-header-image (1)](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/d31d5982-a6f3-4f20-b6bc-1f1359aebcef)
 
 
