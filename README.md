@@ -1,9 +1,4 @@
 ![github-header-image](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/2c9a4dd6-2bf0-45e9-868b-cd31c95343e1)
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Shashank  Dwivedi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
