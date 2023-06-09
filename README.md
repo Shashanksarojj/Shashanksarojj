@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shashank-dwivedi-566895157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-dwivedi-566895157" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shashankdw1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shashankdw1704" height="30" width="40" /></a>
-  <a href="https://shashanksarojj.github.io/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/02/20/13/50/360_F_220135018_BgxHrwwnSuHWdM5bHRkhadycO2Ktzzx0.jpg" alt="Suraj Deosarkar" height="30" width="40" /></a>
+<a href="https://shashanksarojj.github.io/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/02/20/13/50/360_F_220135018_BgxHrwwnSuHWdM5bHRkhadycO2Ktzzx0.jpg" alt="Shashank Dwivedi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
