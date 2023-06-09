@@ -1,5 +1,6 @@
+![github-header-image (1)](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/fdfe1f3a-70fd-4a73-8315-395bc4c98dc1)
 
-![github-header-image](https://github.com/Shashanksarojj/Shashanksarojj/assets/66843256/96786027-3888-41be-9b9f-fd15fcbf1212)
+
 
 
 <h1 align="center">Hi 👋, I'm Shashank Dwivedi</h1>
