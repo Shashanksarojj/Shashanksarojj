@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksarojj" alt="shashanksarojj" /></a> </p>
 
-- 🔭 I’m currently working on [Alliace Digital](https://github.com/RHarsh0/squeamish-territory-6213)
+- 🔭 I’m currently working on [Recipe Vault](https://github.com/Shashanksarojj/-foamy-language-9425)
 
 - 🌱 I’m currently learning **Spring boot , Hibernate**
 
 - 👨‍💻 All of my projects are available at [https://shashanksarojj.github.io/](https://shashanksarojj.github.io/)
 
-- 💬 Ask me about **Java,Hibernate,MySQL ,HTML , CSS, Javascript**
+- 💬 Ask me about **Java,Spring boot, Hibernate, MySQL, HTML, CSS, Javascript**
 
 - 📫 How to reach me **Shashankdw1704@gmail.com**
 
