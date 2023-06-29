@@ -14,7 +14,7 @@
 🔭 I’m currently working on RecipeVault<br>👯 I’m looking to collaborate on Spring Projects<br>🤝 I’m looking for help with Learning Deep Backend Concept<br>🌱 I’m currently learning SpringBoot, Hibernate<br>💬 Ask me about Java, SpringBoot, Hibernate, MySQL, HTML, CSS, Javascript<br>📫 How to reach me Shashankdw1704@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1MUrcCL_jIzL7B4-W_8uCWeZbLn6ir02R/view?usp=sharing
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shashank-dwivedi-566895157/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SarojjShashank) 
 <p dir="auto"><a href="https://shashanksarojj.github.io" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/d93f3ef445d638a60077fa515f9dcae0e0711fc81a7c5bbf67083ebcd68656ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d6c365a393035543730537a5826666f726d61743d706e67" alt="Shashank Dwivedi" height="30" width="40" data-canonical-src="https://img.icons8.com/?size=512&amp;id=l6Z905T70SzX&amp;format=png" style="max-width: 100%;"></a></p>
 
